@@ -1,0 +1,10 @@
+report.appmetrica.yandex.net
+mobile.events.data.microsoft.com
+app-measurement.com
+crashlyticsreports-pa.googleapis.com
+c.amazon-adsystem.com
+mads.amazon-adsystem.com
+api2.branch.io
+ads.adadapted.com
+pixiedust.buzzfeed.com
+events-stream-svc.usw2.cordial.com
